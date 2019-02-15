@@ -46,10 +46,10 @@ b.	as the user searches books, they will be displayed here without any shelves.
 ### How to start:
 
 1.	App.js file
-  a.	Create a main page component file
-    i.	Create a book page component file
-  b.	Create a search component file
-    i.	Create a book page component file 
+2. Create a main page component file
+3. Create a book page component file
+4. Create a search component file
+5. Create a book page component file 
 
 ### Methods you can use to communicate with the backend server
 
